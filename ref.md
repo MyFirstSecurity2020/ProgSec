@@ -1,3 +1,7 @@
+## Advanced C and C++ Compiling Milan Stevanovic
+- 簡體中譯本[高級 C/C++ 編譯技術 (典藏版) ](https://www.tenlong.com.tw/products/9787111717300?list_name=srh)
+
+
 ## 其他主題
 - Reversing_CTF
   - [逆向工程 – 從入門到放棄 系列](https://ithelp.ithome.com.tw/users/20117397/ironman/3619)
