@@ -10,7 +10,7 @@
   - 步驟3:匯入你要用的linux  [[YOUTUBE教學錄影]](https://youtu.be/GTpQR7fZcwE)
 - 請預先申請你的 [github](https://github.com/)  ~ 請上網Google 一下申請辦法
 # 課程內容
-## 第一單元:Linux C程式設計
+## 第一單元:Linux C程式設計(Linux C Programming)
 - 1_1.範例學習Linux C程式設計
 - 1-2.從原始程式碼到執行檔
 - LD_PRELOAD技術
@@ -21,7 +21,7 @@
 ## 第三單元:Linux 組合程式設計(Assembly Language Programming in Linux)
 - 3-1.計算機結構|指令集與組合程式
 - 3-2.NASM(Netwide Assembler)組合程式設計
-## 第四單元:逆向工程入門
+## 第四單元:逆向工程入門(Introduction to reverse engineering)
 - 4-1.逆向工程
 - 4-2.objdump逆向工程
 - 4-3.gdb逆向工程
