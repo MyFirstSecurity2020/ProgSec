@@ -16,9 +16,15 @@
 - LD_PRELOAD技術
 ## 第二單元:Linux 執行檔分析(Linux Binary Analysis)
 - 2-1.Linux 執行檔結構ELF(Executable and Linkable Format)
-- 2-2.
+- 2-2.基本Linux 執行檔分析:file|size|string|hexdump|hd
+- 2-3.Linux 執行檔分析:objdump與readelf
 ## 第三單元:Linux 組合程式設計(Assembly Language Programming in Linux)
 - 3-1.計算機結構|指令集與組合程式
 - 3-2.NASM(Netwide Assembler)組合程式設計
 ## 第四單元:逆向工程入門
-- 4.1
+- 4-1.逆向工程
+- 4-2.objdump逆向工程
+- 4-3.gdb逆向工程
+- 4-4.radare2逆向工程
+- 4-5.ghidra逆向工程
+
