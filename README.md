@@ -12,9 +12,13 @@
 # 課程內容
 ## 第一單元:Linux C程式設計
 - 1_1.範例學習Linux C程式設計
-- 1-2.
+- 1-2.從原始程式碼到執行檔
+- LD_PRELOAD技術
 ## 第二單元:Linux 執行檔分析(Linux Binary Analysis)
 - 2-1.Linux 執行檔結構ELF(Executable and Linkable Format)
 - 2-2.
 ## 第三單元:Linux 組合程式設計(Assembly Language Programming in Linux)
+- 3-1.計算機結構|指令集與組合程式
+- 3-2.NASM(Netwide Assembler)組合程式設計
 ## 第四單元:逆向工程入門
+- 4.1
