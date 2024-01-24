@@ -1,11 +1,10 @@
 # MyFirstProgSec我的第一堂程式安全課 
 
 # 學生預先作業:Linux測試環境下載與建置
-- [Ubuntu 18.04LTS](https://drive.google.com/file/d/1aP-qCFP6jKsGYXtKy9ahwZleQSENEi7C/view?usp=sharing)
-- 本次課程協助學生使用虛擬化技術(在Windows作業系統上安裝Virtualbox,然後匯入linux)學習linux
-- 預先作業自建實體教學環境:本課程使用虛擬機匯入Kali Linux進行教學
+- 本次課程使用虛擬化技術(在Windows作業系統上安裝Virtualbox,然後匯入linux)學習linux
+- 自建實體教學環境:本課程使用虛擬機匯入Kali Linux進行教學
   - 步驟1:在你的電腦下載 [virtual box](https://www.virtualbox.org/wiki/Downloads) 並安裝完成 [Virtualbox安裝:YOUTUBE影片](https://youtu.be/FC0CX71aGnc)
-  - 步驟2:點選資料下載點, 下載這些Linux系統
+  - 步驟2:點選資料下載點, 下載Linux系統
     - Python會用到的Ubuntu Linux 18.04 LTS(已安裝好pwntools)  [下載點](https://drive.google.com/file/d/1aP-qCFP6jKsGYXtKy9ahwZleQSENEi7C/view?usp=sharing)
   - 步驟3:匯入你要用的linux  [[YOUTUBE教學錄影]](https://youtu.be/GTpQR7fZcwE)
 - 請預先申請你的 [github](https://github.com/)  ~ 請上網Google 一下申請辦法
