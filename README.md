@@ -27,8 +27,7 @@
 - 3-4.解讀關鍵組合語言: C vs assembly
 ## 第四單元:逆向工程入門(Introduction to reverse engineering)
 - 4-1.逆向工程
-- 4-2.objdump逆向工程
-- 4-3.gdb逆向工程
-- 4-4.radare2逆向工程
-- 4-5.ghidra逆向工程
+- 4-2.gdb逆向工程
+- 4-3.radare2逆向工程
+- 4-4.ghidra逆向工程
 
