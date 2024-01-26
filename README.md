@@ -1,4 +1,5 @@
 # MyFirstProgSec我的第一堂程式安全課 
+- 撰寫與講師:崑山科技大學資工系 + 雲端運算技資通安全研發中心主任  曾龍老師
 
 # 學生預先作業:Linux測試環境下載與建置
 - 本課程使用虛擬化技術(在Windows作業系統上安裝Virtualbox,然後匯入linux)學習linux
