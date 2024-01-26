@@ -1,7 +1,7 @@
 # MyFirstProgSec我的第一堂程式安全課 
 
 # 學生預先作業:Linux測試環境下載與建置
-- 本次課程使用虛擬化技術(在Windows作業系統上安裝Virtualbox,然後匯入linux)學習linux
+- 本課程使用虛擬化技術(在Windows作業系統上安裝Virtualbox,然後匯入linux)學習linux
 - 自建實體教學環境:本課程使用虛擬機匯入Kali Linux進行教學
   - 步驟1:在你的電腦下載 [virtual box](https://www.virtualbox.org/wiki/Downloads) 並安裝完成 [Virtualbox安裝:YOUTUBE影片](https://youtu.be/FC0CX71aGnc)
   - 步驟2:點選資料下載點, 下載Linux系統
