@@ -1,7 +1,5 @@
-##
+## objdump -S -M intel helloCTFer
 ```c
-objdump -S -M intel helloCTFer
-
 helloCTFer:     file format elf64-x86-64
 
 
