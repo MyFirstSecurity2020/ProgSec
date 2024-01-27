@@ -10,6 +10,10 @@
     - Python會用到的Ubuntu Linux 18.04 LTS(已安裝好pwntools)  [下載點](https://drive.google.com/file/d/1aP-qCFP6jKsGYXtKy9ahwZleQSENEi7C/view?usp=sharing)
   - 步驟3:匯入你要用的linux  [[YOUTUBE教學錄影]](https://youtu.be/GTpQR7fZcwE)
 - 請預先申請你的 [github](https://github.com/)  ~ 請上網Google 一下申請辦法
+
+# 建議的學習模式
+- 拚全力聽到懂
+- 後續會有教學錄影
 # 課程內容
 ## 第一單元:Linux C程式設計(Linux C Programming)
 - [1_1.範例學習Linux C程式設計](1-1.md)
