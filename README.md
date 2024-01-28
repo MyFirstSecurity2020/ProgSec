@@ -1,6 +1,7 @@
 # MyFirstProgSec我的第一堂程式安全課 
 - 撰寫與講師:崑山科技大學資工系 + 雲端運算技資通安全研發中心主任  曾龍老師
 - 直播課程連結(Google Meet):上課前20分鐘會公告於此
+  - https://meet.google.com/ztf-bcyb-ftf  
 
 # 課程宗旨
 - 本課程屬於初階的入門課程
