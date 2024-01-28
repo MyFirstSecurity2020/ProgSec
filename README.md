@@ -40,7 +40,7 @@
 - 3-1.計算機結構|指令集與組合程式
 - [3-2.NASM(Netwide Assembler)組合程式設計](3-2.md)
 - 3-3.NASM組合程式語法
-- 3-4.解讀關鍵組合語言: C vs assembly
+- [3-4.解讀關鍵組合語言: C vs assembly](3-4.md)
 ## 第四單元:逆向工程入門(Introduction to reverse engineering)
 - 4-1.逆向工程
 - 4-2.gdb逆向工程
