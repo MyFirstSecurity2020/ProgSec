@@ -37,9 +37,9 @@
 - [2-4.Linux 執行檔分析:objdump](2-4.md)
 - [延伸閱讀][2-5.Linux 執行檔分析常用工具](2-5.md)
 ## 第三單元:Linux 組合程式設計(Assembly Language Programming in Linux)
-- 3-1.計算機結構|指令集與組合程式
+- [3-1.計算機結構|指令集與組合程式](3-1.md)
 - [3-2.NASM(Netwide Assembler)組合程式設計](3-2.md)
-- 3-3.NASM組合程式語法
+- [3-3.NASM組合程式語法](3-3.md)
 - [3-4.解讀關鍵組合語言: C vs assembly](3-4.md)
 ## 第四單元:逆向工程入門(Introduction to reverse engineering)
 - 4-1.逆向工程
