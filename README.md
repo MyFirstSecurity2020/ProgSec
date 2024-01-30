@@ -43,7 +43,7 @@
 - [3-4.解讀關鍵組合語言: C vs assembly](3-4.md)
 ## 第四單元:逆向工程入門(Introduction to reverse engineering)
 - [4-1.程式安全:逆向工程|PWN](4-1.md)
-- [4-2.gdb逆向工程]()
+- [4-2.gdb逆向工程](4-2.md)
 - [4-3.radare2逆向工程](4-3.md)
 - [4-4.ghidra逆向工程](4-4.md)
 - [4-5.我的第一個PWN實測:Buffer overflow(緩衝區溢位)](4-5.md)
