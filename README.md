@@ -26,7 +26,7 @@
 
 # 課程內容
 ## 第一單元:Linux C程式設計(Linux C Programming)
-- [1_1.範例學習Linux C程式設計](1-1.md)~~~ [20240128第一次教學錄影](https://youtu.be/EPMsu_SoLPE) ~~~[20240128第二次教學錄影](https://youtu.be/BFYjyARU9Ec)
+- [1_1.範例學習Linux C程式設計](1-1.md)~~~ [20240128第一堂教學錄影](https://youtu.be/EPMsu_SoLPE) ~~~[20240128第二堂教學錄影](https://youtu.be/BFYjyARU9Ec)
 - [1-2.從原始程式碼到執行檔](1-2.md) ~~~ [[20240128直播錄影]](https://youtu.be/S8uVTIzeYmw)
 - [1-3.C程式的記憶體佈局(Memory Layout of C Programs)](1-3.md)
 - [1-4.LD_PRELOAD技術](1-4.md) ~~~ [[20240128直播錄影]](https://youtu.be/UgnfeIzjEio)
