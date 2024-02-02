@@ -33,7 +33,7 @@
 - [1-4.LD_PRELOAD技術](1-4.md) ~~~ [[20240128直播錄影]](https://youtu.be/UgnfeIzjEio)
 ## 第二單元:Linux 執行檔分析(Linux Binary Analysis)
 - [2-1.基本Linux 執行檔分析:file|size|string|hexdump|hd](2-1.md)~~~ [[20240128直播錄影]](https://youtu.be/37Pf9tBa2ww)
-- [2-2.Linux 執行檔結構ELF(Executable and Linkable Format)](2-2.md)~~~ [[20240128直播錄影(2-2至2-4錄影)]]()
+- [2-2.Linux 執行檔結構ELF(Executable and Linkable Format)](2-2.md)~~~ [[20240128直播錄影(2-2至2-4錄影)]](https://youtu.be/OHRuoDxbd_M)
 - [2-3.Linux 執行檔分析:readelf](2-3.md)
 - [2-4.Linux 執行檔分析:objdump](2-4.md)
 - [延伸閱讀][2-5.Linux 執行檔分析常用工具](2-5.md)
