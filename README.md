@@ -1,7 +1,8 @@
 # MyFirstProgSec我的第一堂程式安全課 
 - 講師:崑山科技大學資工系 + 雲端運算暨資通安全研發中心主任  曾龍老師
 - 直播課程連結(Google Meet):上課前20分鐘會公告於此
-
+# 作業說明 Google Meet 
+- https://meet.google.com/zjs-otzh-vww
 # 課程宗旨
 - 目的:引導同學了解如何在Linux平台上開發c程式及如何分析程式安全
 - 本課程屬於初階的入門課程
