@@ -4,6 +4,7 @@
 # 作業說明  
 - Google Meet == > https://meet.google.com/zjs-otzh-vww
 - 簽到表：https://forms.gle/fSPx5ebuunFe222P7
+- 作業繳交時間如信件通知：即日起至3/1(五)，依照規定格式寄至isip.ksu@gmail.com
 # 課程宗旨
 - 目的:引導同學了解如何在Linux平台上開發c程式及如何分析程式安全
 - 本課程屬於初階的入門課程
