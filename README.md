@@ -1,7 +1,7 @@
 # MyFirstProgSec我的第一堂程式安全課 
 - 講師:崑山科技大學資工系 + 雲端運算暨資通安全研發中心主任  曾龍老師
 - 直播課程連結(Google Meet):上課前20分鐘會公告於此
-# 作業說明  [20240223直播錄影1](https://youtu.be/nTv7TWg-Hvc)  [20240223直播錄影2]()
+# 作業說明  [20240223直播錄影1](https://youtu.be/nTv7TWg-Hvc)  ~~~~~~  [20240223直播錄影2]()
 - Google Meet == > https://meet.google.com/zjs-otzh-vww
 - 簽到表：https://forms.gle/fSPx5ebuunFe222P7
 - 作業繳交時間如信件通知：即日起至3/1(五)，依照規定格式寄至isip.ksu@gmail.com
