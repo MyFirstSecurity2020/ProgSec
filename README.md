@@ -1,10 +1,7 @@
 # MyFirstProgSec我的第一堂程式安全課 
 - 講師:崑山科技大學資工系 + 雲端運算暨資通安全研發中心主任  曾龍老師
 - 直播課程連結(Google Meet):上課前20分鐘會公告於此
-# 作業說明  [20240223直播錄影1](https://youtu.be/nTv7TWg-Hvc)  ~~~~~~  [20240223直播錄影2]()
-- Google Meet == > https://meet.google.com/zjs-otzh-vww
-- 簽到表：https://forms.gle/fSPx5ebuunFe222P7
-- 作業繳交時間如信件通知：即日起至3/1(五)，依照規定格式寄至isip.ksu@gmail.com
+
 # 課程宗旨
 - 目的:引導同學了解如何在Linux平台上開發c程式及如何分析程式安全
 - 本課程屬於初階的入門課程
@@ -16,6 +13,11 @@
 - 後續會有教學錄影提供複習
 
 # 證書發放標準:繳交PPT簡報(2024.2.15)
+- [20240223直播錄影1](https://youtu.be/nTv7TWg-Hvc)
+- [20240223直播錄影2]()
+- [20240223直播錄影3](https://youtu.be/bqaB4hbhIws)
+- 簽到表：https://forms.gle/fSPx5ebuunFe222P7
+- 作業繳交時間如信件通知：即日起至3/1(五)，依照規定格式寄至isip.ksu@gmail.com
 - 簡報內容:證明你具備底下能力與知識
   - 1.可以在Linux平台上完成C程式開發(可以挑選重要的範例展示)
   - 2.熟悉Linux Binary的基本分析(readelf, objdump等工具的使用)
