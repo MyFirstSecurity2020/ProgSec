@@ -16,7 +16,6 @@
 - [20240223直播錄影1](https://youtu.be/nTv7TWg-Hvc)
 - [20240223直播錄影2]()
 - [20240223直播錄影3](https://youtu.be/bqaB4hbhIws)
-- 簽到表：https://forms.gle/fSPx5ebuunFe222P7
 - 作業繳交時間如信件通知：即日起至3/1(五)，依照規定格式寄至isip.ksu@gmail.com
 - 簡報內容:證明你具備底下能力與知識
   - 1.可以在Linux平台上完成C程式開發(可以挑選重要的範例展示)
