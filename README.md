@@ -14,7 +14,7 @@
 
 # 證書發放標準:繳交PPT簡報(2024.2.15)
 - [20240223直播錄影1](https://youtu.be/nTv7TWg-Hvc)
-- [20240223直播錄影2]()
+- [20240223直播錄影2](https://youtu.be/7fDWoP1gYng)
 - [20240223直播錄影3](https://youtu.be/bqaB4hbhIws)
 - 作業繳交時間如信件通知：即日起至3/1(五)，依照規定格式寄至isip.ksu@gmail.com
 - 簡報內容:證明你具備底下能力與知識
